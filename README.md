@@ -139,10 +139,4 @@ Where:
 
 ---
 
-## How to Run
 
-1. Clone repository:
-
-```bash
-git clone <repo-url>
-cd tic-tac-toe-qlearning
